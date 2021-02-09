@@ -1,6 +1,8 @@
 {
     "name": "AppsFlyer.Editor",
-    "references": [],
+    "references": [
+        "GUID:3b3bd877112974e4da40e8bc8901bcfb"
+    ],
     "includePlatforms": [
         "Android",
         "Editor",
