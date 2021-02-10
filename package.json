@@ -2,7 +2,7 @@
 	"name": "test-af",
 	"displayName": "Test AppsFlyer Unity",
 	"description": "Test upm",
-	"version": "999.999.994",
+	"version": "999.999.995",
 	"unity": "2019.4",
 	"license": "MIT",
 	"dependencies": {
@@ -43,6 +43,7 @@
 		"com.unity.modules.video": "1.0.0",
 		"com.unity.modules.vr": "1.0.0",
 		"com.unity.modules.wind": "1.0.0",
-		"com.unity.modules.xr": "1.0.0"
+		"com.unity.modules.xr": "1.0.0",
+		"com.google.external-dependency-manager": "1.2.144"
 	}
 }
