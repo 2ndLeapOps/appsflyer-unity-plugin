@@ -2,7 +2,7 @@
 	"name": "test-af",
 	"displayName": "Test AppsFlyer Unity",
 	"description": "Test upm",
-	"version": "999.999.995",
+	"version": "999.999.996",
 	"unity": "2019.4",
 	"license": "MIT",
 	"dependencies": {
